@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ATM System
 
 This project is a simple command-line Automated Teller Machine (ATM) simulation written in Java. It allows users to perform basic banking operations such as withdrawing money, depositing money, and checking their account balance.
@@ -43,3 +44,6 @@ This project is a simple command-line Automated Teller Machine (ATM) simulation 
 - The account balance is initialized to 100,000 units each time the program runs.
 - This is a simple simulation and does not persist data between runs.
 - For educational/demo purposes only. 
+=======
+# ATM-System
+>>>>>>> be08d592f7819d65fb252abe57ef9b98bac75c2d
